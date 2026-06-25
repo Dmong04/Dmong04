@@ -85,6 +85,9 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 - 🏢 **PLECSYS** — University Engineering Project *(2025 – Present)*  
   Cross-platform mobile app and REST API for business management.
 
+- ⭐ **Ding Payments** — Open Source Backend Contributor via [GrantFox](https://contribute.grantfox.xyz/profile/Dmong04) *(2025)*  
+  Contributed to Sprint S05 of a self-custodial Stellar P2P payments server. Work included extending the Prisma schema (PaymentRequest, Payment, Transaction, WebAuthn, UsedRequestId), adding database indexes and constraints, writing a development seed script, setting up RLS policies for Supabase, documenting Prisma transaction patterns, and updating the CI workflow with `prisma generate`. Stack: NestJS · Prisma · Supabase · PostgreSQL · Stellar SDK.
+
 - 🖥️ **Grupo Alega S.A** — Service Desk Support *(Nov – Dec 2023)*  
   External service desk at the Judicial Branch of Liberia via Aranda Service Desk.
 
