@@ -22,7 +22,7 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 - 🎓 Finishing my **Bachelor's in Information Systems Engineering** at UNA
 - 🚀 Building **MindXimize** — a productivity/task manager startup project
 - 🔐 Open source contributor via **[GrantFox](https://contribute.grantfox.xyz/profile/Dmong04)** (Stellar-based rewards platform)
-- 🐧 Daily driving **CachyOS Linux** with a custom Hyprland setup
+- 🐧 Daily driving **CachyOS Linux** with a Caelestia Shell Hyprland setup
 - 💬 Open to **internships & junior roles**
 
 ---
