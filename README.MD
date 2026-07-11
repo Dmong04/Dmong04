@@ -100,9 +100,9 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 
 <div align="center">
 
-![Dereck's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dmong04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Dereck's GitHub Stats](https://github-stats-extended-frontend-mu.vercel.app/api?username=Dmong04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmong04&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended-frontend-mu.vercel.app/api/top-langs/?username=Dmong04&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
