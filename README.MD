@@ -2,7 +2,7 @@
 
 # Hey there, I'm Dereck 👋
 
-**Jr. Backend & Full-Stack Developer · Information Systems Engineering Student**
+**Jr. Backend & Full-Stack Developer · Information Systems Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-dereck-monge.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dereck-monge-chaves-933081310/)
@@ -14,13 +14,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a 4th-year Information Systems Engineering student at Universidad Nacional de Costa Rica, with a technical background in IT and networking. I focus primarily on backend development but I'm comfortable working across the full stack — from REST APIs to cross-platform mobile apps.
+I'm a Information Systems Engineer from the Universidad Nacional de Costa Rica, with a technical background in IT and networking. I focus primarily on backend development but I'm comfortable working across the full stack — from REST APIs to cross-platform mobile apps.
 
 I enjoy writing clean, purposeful code and understanding the business logic behind each feature. I've worked on real-world academic and freelance projects, collaborated with dev teams, and I'm always looking to learn something new.
 
 - 🌍 Based in **Liberia, Guanacaste, Costa Rica**
 - 🎓 Finishing my **Bachelor's in Information Systems Engineering** at UNA
-- 🚀 Building **MindXimize** — a productivity/task manager startup project
 - 🔐 Open source contributor via **[GrantFox](https://contribute.grantfox.xyz/profile/Dmong04)** (Stellar-based rewards platform)
 - 🐧 Daily driving **CachyOS Linux** with a Caelestia Shell Hyprland setup
 - 💬 Open to **internships & junior roles**
@@ -50,6 +49,7 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
