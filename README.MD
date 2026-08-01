@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Information Systems Engineer from the Universidad Nacional de Costa Rica, with a technical background in IT and networking. I focus primarily on backend development but I'm comfortable working across the full stack — from REST APIs to cross-platform mobile apps.
+I'm an Information Systems Engineer from the Universidad Nacional de Costa Rica, with a technical background in IT and networking. I focus primarily on backend development but I'm comfortable working across the full stack — from REST APIs to cross-platform mobile apps.
 
 I enjoy writing clean, purposeful code and understanding the business logic behind each feature. I've worked on real-world academic and freelance projects, collaborated with dev teams, and I'm always looking to learn something new.
 
