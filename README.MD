@@ -71,7 +71,6 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 | Project | Description | Stack |
 |---|---|---|
 | [**PLECSYS App**](https://github.com/Dmong04) | Cross-platform mobile app + REST API for business management (university engineering project) | .NET MAUI · C# · EF Core · SQL Server |
-| [**MindXimize**](https://github.com/Dmong04) | Personal startup — agile-focused task manager web app | React · Go · PostgreSQL · Gin |
 | [**ExpressFood**](https://github.com/Dmong04/ExpressFood) | Android food delivery app with dual client/admin interface, offline-first architecture and Google Sign-In | Kotlin · Room · Firestore · Supabase · Firebase Auth |
 | [**SIPAUNA**](https://sipauna.vercel.app) | PWA for managing classroom and space reservations at UNA | Nuxt 4 · Supabase · GraphQL · TypeScript |
 | [**Leona Waterfall Web App**](https://www.come2laleonawaterfall.com) | Tourism website with tours, packages & bookings (Brewcode team) | Nuxt 4 · Prisma · Neon DB · i18n |
