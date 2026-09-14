@@ -19,9 +19,9 @@ I'm an Information Systems Engineer from the Universidad Nacional de Costa Rica,
 I enjoy writing clean, purposeful code and understanding the business logic behind each feature. I've worked on real-world academic and freelance projects, collaborated with dev teams, and I'm always looking to learn something new.
 
 - 🌍 Based in **Liberia, Guanacaste, Costa Rica**
+- 🐧 Linux entusiast
 - 🎓 Finishing my **Bachelor's in Information Systems Engineering** at UNA
 - 🔐 Open source contributor via **[GrantFox](https://contribute.grantfox.xyz/profile/Dmong04)** (Stellar-based rewards platform)
-- 🐧 Daily driving **CachyOS Linux** with a Caelestia Shell Hyprland setup
 - 💬 Open to **internships & junior roles**
 
 ---
