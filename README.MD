@@ -19,9 +19,10 @@ I'm an Information Systems Engineer from the Universidad Nacional de Costa Rica,
 I enjoy writing clean, purposeful code and understanding the business logic behind each feature. I've worked on real-world academic and freelance projects, collaborated with dev teams, and I'm always looking to learn something new.
 
 - 🌍 Based in **Liberia, Guanacaste, Costa Rica**
-- 🐧 Linux entusiast
+- 🐧 GNU/Linux entusiast
 - 🎓 Finishing my **Bachelor's in Information Systems Engineering** at UNA
 - 🔐 Open source contributor via **[GrantFox](https://contribute.grantfox.xyz/profile/Dmong04)** (Stellar-based rewards platform)
+- ⚙️ Performing as an active Maintainer from Astrea-payouts escrow-based project on Stellar's net.
 - 💬 Open to **internships & junior roles**
 
 ---
@@ -63,6 +64,9 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Low-code platforms**
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
