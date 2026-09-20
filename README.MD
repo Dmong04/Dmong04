@@ -22,7 +22,7 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 - 🐧 GNU/Linux entusiast
 - 🎓 Finishing my **Bachelor's in Information Systems Engineering** at UNA
 - 🔐 Open source contributor via **[GrantFox](https://contribute.grantfox.xyz/profile/Dmong04)** (Stellar-based rewards platform)
-- ⚙️ Performing as an active Maintainer from Astrea-payouts escrow-based project on Stellar's net.
+- ⚙️ Performing as an active Maintainer from Astrea-payouts escrow-based project for reward custodial on hackathons and engineering competitive events on Stellar's net.
 - 💬 Open to **internships & junior roles**
 
 ---
