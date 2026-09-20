@@ -66,6 +66,7 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 **Low-code platforms**
+
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
