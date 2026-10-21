@@ -18,13 +18,13 @@
 
 ## 👨‍💻 About Me
 
-I'm an Information Systems Engineer from the Universidad Nacional de Costa Rica, with a technical background in IT and networking. I focus primarily on backend development, but I'm comfortable working across the full stack — from REST APIs to cross-platform mobile apps and Oracle APEX business systems.
+I'm an Information Systems Engineering student at the Universidad Nacional de Costa Rica, with a technical background in IT and networking. I focus primarily on backend development, but I'm comfortable working across the full stack — from REST APIs to cross-platform mobile apps and Oracle APEX business systems.
 
 I enjoy writing clean, purposeful code and understanding the business logic behind each feature. I've worked on real-world academic and freelance projects, collaborated with dev teams, and I'm always looking to learn something new.
 
 - 🌍 Based in **Liberia, Guanacaste, Costa Rica**
 - 🐧 GNU/Linux enthusiast
-- 🎓 Finishing my **Bachelor's in Information Systems Engineering** at UNA
+- 🎓 Finishing my **Bachelor's in Information Systems Engineering** at UNA (coursework ends Nov 2026, graduating in 2027)
 - 🏭 Building an **Oracle APEX** system for equipment metrological control at **CATSA** (Central Azucarera Tempisque S.A.)
 - 🔐 Open source contributor via **[GrantFox](https://contribute.grantfox.xyz/profile/Dmong04)** (Stellar-based rewards platform)
 - ⚙️ Maintainer of **[Astrea](https://github.com/Astrea-Payouts/astrea)**, an open source escrow-based payout platform for hackathon and competition prizes on Stellar
