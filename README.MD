@@ -105,9 +105,9 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 
 <br>
 
-Central Azucarera Tempisque S.A. Developing a system for the metrological control of the laboratory's equipment.
+Central Azucarera Tempisque S.A. Developing a system for the metrological control of the laboratory's equipment, including the design of its reporting with Jasper Reports, served through JasperReports Server.
 
-**Stack:** Oracle APEX · Oracle Database
+**Stack:** Oracle APEX · Oracle Database · Jasper Reports · JasperReports Server
 
 </details>
 
