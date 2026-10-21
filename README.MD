@@ -27,9 +27,9 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 - 🎓 Finishing my **Bachelor's in Information Systems Engineering** at UNA
 - 🏭 Building an **Oracle APEX** system for equipment metrological control at **CATSA** (Central Azucarera Tempisque S.A.)
 - 🔐 Open source contributor via **[GrantFox](https://contribute.grantfox.xyz/profile/Dmong04)** (Stellar-based rewards platform)
-- 🤝 Applying as co-maintainer of a Stellar blockchain project on GrantFox
+- ⚙️ Maintainer of **[Astrea](https://github.com/Astrea-Payouts/astrea)**, an open source escrow-based payout platform for hackathon and competition prizes on Stellar
 - 📜 **Scrum Fundamentals Certified (SFC™)**
-- 💬 Open to **internships & junior roles**
+- 💬 Open to **junior roles**
 
 ### 🔭 Currently
 
@@ -45,16 +45,19 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 ## 🛠️ Tech Stack
 
 **Backend**  
-![Backend](https://skillicons.dev/icons?i=dotnet,spring,nodejs,nestjs)
+![Backend](https://skillicons.dev/icons?i=dotnet,go,rust,nestjs,nodejs,spring)
 
 **Frontend & Mobile**  
-![Frontend](https://skillicons.dev/icons?i=vue,nuxtjs,astro,react,androidstudio,tailwind)
+![Frontend](https://skillicons.dev/icons?i=nuxtjs,nextjs,react,astro,vue,androidstudio,tailwind)
 
 **Databases**  
 ![Databases](https://skillicons.dev/icons?i=postgres,oracle,mongodb,supabase,firebase) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Languages**  
 ![Languages](https://skillicons.dev/icons?i=ts,go,cs,kotlin,java,rust)
+
+**Cloud**  
+![Cloud](https://skillicons.dev/icons?i=gcp,azure,supabase)
 
 **Low-code platforms & reporting**  
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white) ![Jasper Reports](https://img.shields.io/badge/Jasper_Reports-1E6FA8?style=flat-square&logoColor=white)
@@ -98,7 +101,7 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 ## 💼 Experience
 
 <details open>
-<summary>🏭 <b>CATSA</b> — Systems Developer, Oracle APEX (Professional Internship) <i>(Aug 2026 – Present)</i></summary>
+<summary>🏭 <b>CATSA</b> — Programmer Analyst, Oracle APEX (Professional Internship) <i>(Aug 2026 – Present)</i></summary>
 
 <br>
 
@@ -109,6 +112,19 @@ Central Azucarera Tempisque S.A. Developing a system for the metrological contro
 </details>
 
 <details open>
+<summary>⚙️ <b>Astrea</b> — Open Source Maintainer <i>(2026)</i></summary>
+
+<br>
+
+Maintaining an open source (MIT) prize-payout platform with escrow on Stellar for hackathons, bounties and community challenges: organizers lock funds on-chain and winners receive USDC after judges approve.
+
+**Stack:** Next.js · TypeScript · Tailwind · Go · Prisma · PostgreSQL · Supabase · Rust/Soroban (escrow contract in development)
+
+[View the repository](https://github.com/Astrea-Payouts/astrea)
+
+</details>
+
+<details>
 <summary>⭐ <b>Ding Payments</b> — Open Source Backend Contributor via GrantFox <i>(2026)</i></summary>
 
 <br>
