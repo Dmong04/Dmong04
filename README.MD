@@ -4,7 +4,7 @@
 
 # Hey there, I'm Dereck 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Jr.+Backend+%26+Full-Stack+Developer;Information+Systems+Engineer;Open+Source+Contributor+on+Stellar" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Jr.+Backend+%26+Full-Stack+Developer;Information+Systems+Engineer;Oracle+APEX+%26+.NET+Developer;Open+Source+Contributor+on+Stellar" alt="Typing SVG" />
 
 <br>
 
@@ -18,23 +18,27 @@
 
 ## 👨‍💻 About Me
 
-I'm an Information Systems Engineer from the Universidad Nacional de Costa Rica, with a technical background in IT and networking. I focus primarily on backend development, but I'm comfortable working across the full stack — from REST APIs to cross-platform mobile apps.
+I'm an Information Systems Engineer from the Universidad Nacional de Costa Rica, with a technical background in IT and networking. I focus primarily on backend development, but I'm comfortable working across the full stack — from REST APIs to cross-platform mobile apps and Oracle APEX business systems.
 
 I enjoy writing clean, purposeful code and understanding the business logic behind each feature. I've worked on real-world academic and freelance projects, collaborated with dev teams, and I'm always looking to learn something new.
 
 - 🌍 Based in **Liberia, Guanacaste, Costa Rica**
 - 🐧 GNU/Linux enthusiast
 - 🎓 Finishing my **Bachelor's in Information Systems Engineering** at UNA
+- 🏭 Building an **Oracle APEX** system for equipment metrological control at **CATSA** (Central Azucarera Tempisque S.A.)
 - 🔐 Open source contributor via **[GrantFox](https://contribute.grantfox.xyz/profile/Dmong04)** (Stellar-based rewards platform)
-- ⚙️ Active maintainer of **Astrea Payouts**, an escrow-based project for custodying hackathon and competition rewards on Stellar
+- 🤝 Applying as co-maintainer of a Stellar blockchain project on GrantFox
+- 📜 **Scrum Fundamentals Certified (SFC™)**
 - 💬 Open to **internships & junior roles**
 
 ### 🔭 Currently
 
-- 🛠️ Contributing to Stellar-based open source projects
+- 🛠️ Developing a laboratory equipment metrological control system with Oracle APEX at CATSA
+- 🌐 Contributing to Stellar-based open source projects
+- ☁️ Studying: [Google Cloud Computing Foundations: Cloud Computing Fundamentals](https://www.skills.google/paths/36/course_templates/153)
 - 🌱 Learning: Go & Rust, and deeper backend architecture
 - 📫 Reach me at **dmonge1106@gmail.com**
-- 🗣️ Spanish (native) · English (add your level)
+- 🗣️ Spanish (native) · English (B2)
 
 ---
 
@@ -52,8 +56,17 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 **Languages**  
 ![Languages](https://skillicons.dev/icons?i=ts,go,cs,kotlin,java,rust)
 
-**Low-code platforms**  
-![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
+**Low-code platforms & reporting**  
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white) ![Jasper Reports](https://img.shields.io/badge/Jasper_Reports-1E6FA8?style=flat-square&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| **Scrum Fundamentals Certified (SFC™)** | SCRUMstudy | Earned — April 2026 (ID 1161988) |
+| [**Google Cloud Computing Foundations: Cloud Computing Fundamentals**](https://www.skills.google/paths/36/course_templates/153) | Google Cloud Skills Boost | In progress |
 
 ---
 
@@ -85,17 +98,17 @@ I enjoy writing clean, purposeful code and understanding the business logic behi
 ## 💼 Experience
 
 <details open>
-<summary>🏢 <b>PLECSYS</b> — University Engineering Project <i>(2025 – 2026)</i></summary>
+<summary>🏭 <b>CATSA</b> — Systems Developer, Oracle APEX (Professional Internship) <i>(Aug 2026 – Present)</i></summary>
 
 <br>
 
-Cross-platform mobile app and REST API for business management.
+Central Azucarera Tempisque S.A. Developing a system for the metrological control of the laboratory's equipment.
 
-**Stack:** .NET MAUI · C# · EF Core · SQL Server
+**Stack:** Oracle APEX · Oracle Database
 
 </details>
 
-<details>
+<details open>
 <summary>⭐ <b>Ding Payments</b> — Open Source Backend Contributor via GrantFox <i>(2026)</i></summary>
 
 <br>
@@ -105,6 +118,17 @@ Contributing across multiple sprints to a self-custodial Stellar P2P payments se
 **Stack:** NestJS · Prisma · Supabase · PostgreSQL · Stellar SDK
 
 [View my GrantFox profile](https://contribute.grantfox.xyz/profile/Dmong04)
+
+</details>
+
+<details>
+<summary>🏢 <b>PLECSYS</b> — University Engineering Project <i>(2025 – 2026)</i></summary>
+
+<br>
+
+Cross-platform mobile app and REST API for business management.
+
+**Stack:** .NET MAUI · .NET · C# · EF Core · SQL Server
 
 </details>
 
